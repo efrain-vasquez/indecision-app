@@ -4,3 +4,5 @@ import IndecisionApp from './components/IndecisionApp.js';
 
 ReactDOM.render(<IndecisionApp />, document.getElementById('app'));
   
+//https://github.com/reactjs/react-modal
+//readme file
