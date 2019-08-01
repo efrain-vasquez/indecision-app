@@ -1,0 +1,15 @@
+//files that begin in underscore mean they contain part or partial of the code in
+//this case _base.scss will contain part of the styling code
+
+//rem better support for accessibility
+
+
+html {
+    font-size: 62.5%;
+}
+
+body {
+    font-family: Helvetica, Arial, sans-serif;
+    font-size: 1.6rem;
+}
+
